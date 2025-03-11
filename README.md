@@ -32,4 +32,4 @@ Minha trajetória une experiência industrial e análise de dados, transformando
 💻 **GitHub:** [github.com/JaksonPascoal](https://github.com/JaksonPascoal)  
 📧 **Email:** jkpascoalds@gmail.com  
 
-Se tiver interesse em colaborar ou trocar ideias sobre **Ciência de Dados, Machine Learning e Análises Industriais**, me mande uma mensagem! 🚀  
+Se tiver interesse em colaborar ou trocar ideias sobre **Ciência de Dados, Machine Learning e Análises Industriais**, me mande uma mensagem! 
